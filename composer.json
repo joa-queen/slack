@@ -1,0 +1,19 @@
+{
+    "name": "sarasa/slack",
+    "description": "Slack integration for PHP",
+    "keywords": ["SES"],
+    "homepage": "http://github.com/joacodeviaje/slack",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joaquín Miguez",
+            "email": "joacodeviaje@gmail.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-0": {"Sarasa\\Slack\\": ""}
+    }
+}
